@@ -1,0 +1,15 @@
+.place__link {
+  max-width: 456px;
+  margin: 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFF;
+  text-decoration: underline;
+  transition: opacity 0.2s ease-in;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
+}
