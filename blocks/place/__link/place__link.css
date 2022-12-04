@@ -7,9 +7,9 @@
   line-height: 22px;
   color: #FFFF;
   text-decoration: underline;
-  transition: opacity 0.2s ease-in;
+  transition: opacity 0.3s ease-in;
 }
 
-.header__lang-link:hover {
+.place__link:hover {
     opacity: 0.8;
 }
