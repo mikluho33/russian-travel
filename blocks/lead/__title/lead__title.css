@@ -2,6 +2,7 @@
     font-family: 'Inter', 'Arial', 'sans-serif';
     font-style: normal;
     font-weight: 900;
+    max-width: 720px;
     font-size: 96px;
     line-height: 100px;
     color: #FFFFFF;
@@ -11,6 +12,7 @@
 
 @media screen and (max-width: 1023px) {
     .lead__title {
+        max-width: 720px;
         margin: 0 24px 0 24px;
     }
 }
